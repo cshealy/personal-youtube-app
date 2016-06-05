@@ -1,5 +1,4 @@
 # personal-youtube-app
-<br>
 iOS app to display recent uploaded videos from a League of Legends channel
 <br> 
 -Launch Screen Displayed
