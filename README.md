@@ -6,3 +6,5 @@ iOS app to display recent videos uploaded from a League of Legends channel
 -Initial ViewController containing a tableview with the maximum amount of videos retrieved using my personal API key
  <br>
 -Selected cell segues to a detailed ViewController
+
+<a href="http://imgur.com/9XcHMEA"><img src="http://i.imgur.com/9XcHMEA.gif" title="source: imgur.com" /></a>
