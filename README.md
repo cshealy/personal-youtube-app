@@ -7,4 +7,4 @@ iOS app to display recent videos uploaded from a League of Legends channel
  <br>
 -Selected cell segues to a detailed ViewController
 
-<a href="http://imgur.com/9XcHMEA"><img src="http://i.imgur.com/9XcHMEA.gif" title="source: imgur.com" /></a>
+
